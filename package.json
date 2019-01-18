@@ -1,0 +1,8 @@
+{
+  "name": "@mankal111/matrix-js",
+  "version": "0.0.1",
+  "description": "basic linear algebra utils in javascript",
+  "license": "MIT",
+  "repository": "mankal111/matrix-js",
+  "main": "index.js"
+}
